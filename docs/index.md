@@ -9,3 +9,8 @@ Olá! Este é um site criado para compartilhar materiais didáticos, aulas e exe
 ## 🚀 Como usar este site
 
 Navegue pelo menu superior para acessar os diferentes conteúdos. Você pode usar a busca para encontrar tópicos específicos.
+
+
+## 🤖 Machine Learning
+
+https://luccasalencar.github.io/aulas-aprendizagem-de-maquina/
