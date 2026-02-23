@@ -13,4 +13,4 @@ Navegue pelo menu superior para acessar os diferentes conteúdos. Você pode usa
 
 ## 🤖 Machine Learning
 
-https://luccasalencar.github.io/aulas-aprendizagem-de-maquina/
+<https://luccasalencar.github.io/aulas-aprendizagem-de-maquina/>
